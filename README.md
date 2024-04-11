@@ -1,1 +1,2 @@
-WIP
+corporation game (working title) is a game, or rather a simulation, about living in a futuristic cyberpunk city. Get a job, make money, lose your limbs, get chromed up, start a company, make the city an economic utopia or bring it all down into the dark ages. It's up to you.
+This is a project I'm making at work as I am bored. I might keep working on it if I have the time or still feel like it. I'm not sure, we'll see.
