@@ -1,0 +1,35 @@
+Unemployed
+Transient
+Homeless
+Salaryworker
+Accountant
+IT Technician
+General Supervisor
+Software Developer
+Programmer
+Technician
+Chief Technician
+Engineer
+Marketer
+Department Head
+CEO
+Intern
+Janitor
+Bionics Technician
+Chief Overseer
+Scientist
+Robotician
+Chemist
+Civil Engineer
+Medical Doctor
+Prosthetic Doctor
+Patient
+Bartender
+Shopkeeper
+Butcher
+Botanist
+Civilian
+Black Market Dealer
+Criminal
+Thug
+Enforcer
